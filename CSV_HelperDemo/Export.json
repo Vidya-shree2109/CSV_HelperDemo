@@ -1,0 +1,47 @@
+[
+  {
+    "FirstName": "Vidya",
+    "LastName": "Shree",
+    "Email": "vidyashree2109@gmail.com",
+    "PhoneNumber": "+91 9867554432",
+    "City": "Tumkur",
+    "State": "Karnataka",
+    "Country": "India"
+  },
+  {
+    "FirstName": "Neha",
+    "LastName": "Sharma",
+    "Email": "nehasharma32@gmail.com",
+    "PhoneNumber": "+91 8766544569",
+    "City": "Bangalore",
+    "State": "Karnataka",
+    "Country": "India"
+  },
+  {
+    "FirstName": "Suhani",
+    "LastName": "Srinivas",
+    "Email": "suhani213@gmail.com",
+    "PhoneNumber": "+1 9087764325",
+    "City": "Memphis",
+    "State": "Tennesse",
+    "Country": "United States"
+  },
+  {
+    "FirstName": "Kavya",
+    "LastName": "Pai",
+    "Email": "kavya45@gmail.com",
+    "PhoneNumber": "+91 6365443789",
+    "City": "Mysore",
+    "State": "Karnataka",
+    "Country": "India"
+  },
+  {
+    "FirstName": "Sneha",
+    "LastName": "Roy",
+    "Email": "sneha2324@gmail.com",
+    "PhoneNumber": "+91 8766590834",
+    "City": "Hubli",
+    "State": "Karnataka",
+    "Country": "India"
+  }
+]
